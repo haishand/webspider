@@ -1,0 +1,7 @@
+2015-05-29 20:09:13  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-29 20:09:15  [ obj.CollectorTimer:Timer-0:1631 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-29 20:09:15  [ obj.CollectorTimer:Timer-0:1884 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-29 20:09:15  [ obj.CollectorTimer:Timer-0:1898 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(2min)
+2015-05-29 20:09:15  [ obj.CollectorTimer:Timer-0:2049 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(2min)
+2015-05-29 20:10:14  [ obj.CollectorTimer:Timer-0:61069 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-29 20:10:14  [ obj.CollectorTimer:Timer-0:61182 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)

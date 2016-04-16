@@ -1,0 +1,156 @@
+2015-05-25 13:16:11  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:16:12  [ objs.CollectorTimer:Timer-0:1657 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:16:13  [ objs.CollectorTimer:Timer-0:2213 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:17:12  [ objs.CollectorTimer:Timer-0:61076 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:17:12  [ objs.CollectorTimer:Timer-0:61237 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:19:43  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:19:45  [ objs.CollectorTimer:Timer-0:1320 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:19:45  [ objs.CollectorTimer:Timer-0:1649 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:22:34  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:22:35  [ objs.CollectorTimer:Timer-0:1294 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:22:35  [ core.Worker:Thread-1:1367 ] - [ DEBUG ]  The buf: [B@73315822
+buf length: 1117
+2015-05-25 13:22:36  [ objs.CollectorTimer:Timer-0:1718 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:22:36  [ core.Worker:Thread-1:1734 ] - [ DEBUG ]  The buf: [B@4bb56ff0
+buf length: 13291
+2015-05-25 13:25:37  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:25:38  [ objs.CollectorTimer:Timer-0:1345 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:25:38  [ core.Worker:Thread-1:1411 ] - [ DEBUG ]  The buf: [B@73315822
+buf length: 1117
+2015-05-25 13:25:39  [ objs.CollectorTimer:Timer-0:1889 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:25:39  [ core.Worker:Thread-1:1892 ] - [ DEBUG ]  The buf: [B@4bb56ff0
+buf length: 13291
+2015-05-25 13:26:38  [ objs.CollectorTimer:Timer-0:61083 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:26:38  [ core.Worker:Thread-1:61127 ] - [ DEBUG ]  The buf: [B@14a0996f
+buf length: 1117
+2015-05-25 13:26:38  [ objs.CollectorTimer:Timer-0:61345 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:26:38  [ core.Worker:Thread-1:61353 ] - [ DEBUG ]  The buf: [B@416bf965
+buf length: 13291
+2015-05-25 13:28:00  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:28:01  [ objs.CollectorTimer:Timer-0:1223 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:28:01  [ core.Worker:Thread-1:1253 ] - [ DEBUG ]  The buf: [B@73315822
+buf length: 1117
+2015-05-25 13:28:02  [ objs.CollectorTimer:Timer-0:1578 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:28:02  [ core.Worker:Thread-1:1590 ] - [ DEBUG ]  The buf: [B@4bb56ff0
+buf length: 13291
+2015-05-25 13:32:28  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:32:30  [ objs.CollectorTimer:Timer-0:1262 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:32:30  [ core.Worker:Thread-1:1289 ] - [ DEBUG ]  The buf: [B@73315822
+buf length: 1117
+2015-05-25 13:32:30  [ objs.CollectorTimer:Timer-0:1620 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:32:30  [ core.Worker:Thread-1:1635 ] - [ DEBUG ]  The buf: [B@4bb56ff0
+buf length: 13291
+2015-05-25 13:35:14  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:35:15  [ objs.CollectorTimer:Timer-0:1212 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:35:15  [ core.Worker:Thread-1:1244 ] - [ DEBUG ]  The buf: [B@5ad8939d
+buf length: 1117
+2015-05-25 13:35:16  [ objs.CollectorTimer:Timer-0:2097 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:35:16  [ core.Worker:Thread-1:2108 ] - [ DEBUG ]  The buf: [B@43a21226
+buf length: 13291
+2015-05-25 13:36:15  [ objs.CollectorTimer:Timer-0:61014 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:36:15  [ core.Worker:Thread-1:61016 ] - [ DEBUG ]  The buf: [B@2f5d0501
+buf length: 1117
+2015-05-25 13:36:15  [ objs.CollectorTimer:Timer-0:61261 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:36:15  [ core.Worker:Thread-1:61276 ] - [ DEBUG ]  The buf: [B@3ef0b4ad
+buf length: 13291
+2015-05-25 13:37:15  [ objs.CollectorTimer:Timer-0:121052 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:37:15  [ core.Worker:Thread-1:121053 ] - [ DEBUG ]  The buf: [B@28d090e3
+buf length: 1117
+2015-05-25 13:37:15  [ objs.CollectorTimer:Timer-0:121113 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:37:15  [ core.Worker:Thread-1:121117 ] - [ DEBUG ]  The buf: [B@78c379ae
+buf length: 13291
+2015-05-25 13:38:15  [ objs.CollectorTimer:Timer-0:181032 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:38:15  [ core.Worker:Thread-1:181032 ] - [ DEBUG ]  The buf: [B@5a9b4493
+buf length: 1117
+2015-05-25 13:38:15  [ objs.CollectorTimer:Timer-0:181084 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:38:15  [ core.Worker:Thread-1:181089 ] - [ DEBUG ]  The buf: [B@991db19
+buf length: 13291
+2015-05-25 13:39:15  [ objs.CollectorTimer:Timer-0:241017 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:39:15  [ core.Worker:Thread-1:241017 ] - [ DEBUG ]  The buf: [B@290bb9a4
+buf length: 1117
+2015-05-25 13:39:15  [ objs.CollectorTimer:Timer-0:241087 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:39:15  [ core.Worker:Thread-1:241089 ] - [ DEBUG ]  The buf: [B@3a39e080
+buf length: 13291
+2015-05-25 13:40:15  [ objs.CollectorTimer:Timer-0:301144 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:40:15  [ core.Worker:Thread-1:301147 ] - [ DEBUG ]  The buf: [B@614fc476
+buf length: 1117
+2015-05-25 13:40:15  [ objs.CollectorTimer:Timer-0:301207 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:40:15  [ core.Worker:Thread-1:301208 ] - [ DEBUG ]  The buf: [B@71b72c6d
+buf length: 13291
+2015-05-25 13:41:15  [ objs.CollectorTimer:Timer-0:361016 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:41:15  [ core.Worker:Thread-1:361033 ] - [ DEBUG ]  The buf: [B@603b7ac2
+buf length: 1117
+2015-05-25 13:41:15  [ objs.CollectorTimer:Timer-0:361075 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:41:15  [ core.Worker:Thread-1:361076 ] - [ DEBUG ]  The buf: [B@3c11bd58
+buf length: 13291
+2015-05-25 13:42:15  [ objs.CollectorTimer:Timer-0:421013 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:42:15  [ core.Worker:Thread-1:421013 ] - [ DEBUG ]  The buf: [B@7f899468
+buf length: 1117
+2015-05-25 13:42:15  [ objs.CollectorTimer:Timer-0:421068 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:42:15  [ core.Worker:Thread-1:421069 ] - [ DEBUG ]  The buf: [B@123a740b
+buf length: 13291
+2015-05-25 13:43:15  [ core.Worker:Thread-1:481018 ] - [ DEBUG ]  The buf: [B@10a8f566
+buf length: 1117
+2015-05-25 13:43:15  [ objs.CollectorTimer:Timer-0:481020 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:43:15  [ objs.CollectorTimer:Timer-0:481081 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:43:15  [ core.Worker:Thread-1:481082 ] - [ DEBUG ]  The buf: [B@20570dee
+buf length: 13291
+2015-05-25 13:44:15  [ objs.CollectorTimer:Timer-0:541032 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:44:15  [ core.Worker:Thread-1:541033 ] - [ DEBUG ]  The buf: [B@69180403
+buf length: 1117
+2015-05-25 13:44:15  [ objs.CollectorTimer:Timer-0:541100 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:44:15  [ core.Worker:Thread-1:541101 ] - [ DEBUG ]  The buf: [B@6e7b6dd8
+buf length: 13291
+2015-05-25 13:45:15  [ objs.CollectorTimer:Timer-0:601015 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:45:15  [ core.Worker:Thread-1:601015 ] - [ DEBUG ]  The buf: [B@2b06ed00
+buf length: 1117
+2015-05-25 13:45:15  [ objs.CollectorTimer:Timer-0:601054 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:45:15  [ core.Worker:Thread-1:601055 ] - [ DEBUG ]  The buf: [B@7a3bf4bb
+buf length: 13291
+2015-05-25 13:46:15  [ objs.CollectorTimer:Timer-0:661040 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:46:15  [ core.Worker:Thread-1:661040 ] - [ DEBUG ]  The buf: [B@2b3f41b5
+buf length: 1117
+2015-05-25 13:46:15  [ objs.CollectorTimer:Timer-0:661083 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:46:15  [ core.Worker:Thread-1:661084 ] - [ DEBUG ]  The buf: [B@27f1322c
+buf length: 13291
+2015-05-25 13:47:15  [ objs.CollectorTimer:Timer-0:721016 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:47:15  [ core.Worker:Thread-1:721016 ] - [ DEBUG ]  The buf: [B@5572760f
+buf length: 1117
+2015-05-25 13:47:15  [ objs.CollectorTimer:Timer-0:721077 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:47:15  [ core.Worker:Thread-1:721077 ] - [ DEBUG ]  The buf: [B@337461cf
+buf length: 13291
+2015-05-25 13:48:46  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-25 13:48:47  [ objs.CollectorTimer:Timer-0:1361 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-25 13:48:47  [ core.Worker:Thread-1:1428 ] - [ DEBUG ]  The buf: [B@3c91f76f
+buf length: 1117
+2015-05-25 13:48:47  [ objs.CollectorTimer:Timer-0:1737 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-25 13:48:47  [ core.Worker:Thread-1:1741 ] - [ DEBUG ]  The buf: [B@3a79378b
+buf length: 13291
+2015-05-25 13:48:47  [ core.Worker:Thread-1:1772 ] - [ DEBUG ]  The buf: [B@56938325
+buf length: 1117
+2015-05-25 13:48:47  [ objs.CollectorTimer:Timer-0:1778 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(2min)
+2015-05-25 13:48:48  [ objs.CollectorTimer:Timer-0:2047 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(2min)
+2015-05-25 13:48:48  [ core.Worker:Thread-1:2053 ] - [ DEBUG ]  The buf: [B@5e28a317
+buf length: 13291
+2015-05-27 12:45:37  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-27 12:46:08  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-27 12:51:23  [ objs.CollectionObject:main:0 ] - [ ERROR ]  For type(type1):the url number(2) is not equal to filter number(3)
+2015-05-27 12:51:33  [ core.Main:main:0 ] - [ DEBUG ]  Collector started!
+2015-05-27 12:51:34  [ objs.CollectorTimer:Timer-0:1282 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-27 12:51:34  [ core.Worker:Thread-1:1311 ] - [ DEBUG ]  The buf: [B@585f19af
+buf length: 1158
+2015-05-27 12:51:35  [ objs.CollectorTimer:Timer-0:1808 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-27 12:51:35  [ objs.CollectorTimer:Timer-0:1818 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(2min)
+2015-05-27 12:51:35  [ core.Worker:Thread-1:1835 ] - [ DEBUG ]  The buf: [B@7c70acf
+buf length: 13332
+2015-05-27 12:51:35  [ core.Worker:Thread-1:1869 ] - [ DEBUG ]  The buf: [B@5abd749e
+buf length: 1158
+2015-05-27 12:51:35  [ objs.CollectorTimer:Timer-0:2082 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(2min)
+2015-05-27 12:51:35  [ core.Worker:Thread-1:2085 ] - [ DEBUG ]  The buf: [B@2d7620e3
+buf length: 13332
+2015-05-27 12:52:36  [ objs.CollectorTimer:Timer-0:62540 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-27 12:52:36  [ core.Worker:Thread-1:62542 ] - [ DEBUG ]  The buf: [B@44fb9ccb
+buf length: 1158
+2015-05-27 12:52:36  [ objs.CollectorTimer:Timer-0:62968 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-27 12:52:36  [ core.Worker:Thread-1:62981 ] - [ DEBUG ]  The buf: [B@34aba0d3
+buf length: 13332

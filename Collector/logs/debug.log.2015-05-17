@@ -1,0 +1,64 @@
+2015-05-17 19:29:54  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 19:29:55  [ obj.CollectorTimer:Timer-0:1214 ] - [ DEBUG ]  http://127.0.0.1/test2.html with filter: 用户名称 has been parsed.
+2015-05-17 19:29:55  [ obj.CollectorTimer:Timer-0:1218 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:30:55  [ obj.CollectorTimer:Timer-0:61053 ] - [ DEBUG ]  http://127.0.0.1/test2.html with filter: 用户名称 has been parsed.
+2015-05-17 19:30:55  [ obj.CollectorTimer:Timer-0:61073 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:31:55  [ obj.CollectorTimer:Timer-0:121022 ] - [ DEBUG ]  http://127.0.0.1/test2.html with filter: 用户名称 has been parsed.
+2015-05-17 19:31:55  [ obj.CollectorTimer:Timer-0:121025 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:32:55  [ obj.CollectorTimer:Timer-0:181035 ] - [ DEBUG ]  http://127.0.0.1/test2.html with filter: 用户名称 has been parsed.
+2015-05-17 19:32:55  [ obj.CollectorTimer:Timer-0:181042 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:40:27  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 19:40:28  [ obj.CollectorTimer:Timer-0:1214 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:40:28  [ obj.CollectorTimer:Timer-0:1217 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:43:39  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 19:43:40  [ obj.CollectorTimer:Timer-0:1202 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:43:40  [ obj.CollectorTimer:Timer-0:1206 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:44:40  [ obj.CollectorTimer:Timer-0:61068 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:44:40  [ obj.CollectorTimer:Timer-0:61070 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:45:40  [ obj.CollectorTimer:Timer-0:121047 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:45:40  [ obj.CollectorTimer:Timer-0:121052 ] - [ DEBUG ]  org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=http://127.0.0.1/test1.html
+2015-05-17 19:46:40  [ obj.CollectorTimer:Timer-0:181029 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:46:40  [ obj.CollectorTimer:Timer-0:181286 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(60000)
+2015-05-17 19:47:40  [ obj.CollectorTimer:Timer-0:241032 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:47:40  [ obj.CollectorTimer:Timer-0:241172 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(60000)
+2015-05-17 19:48:40  [ obj.CollectorTimer:Timer-0:301019 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:48:40  [ obj.CollectorTimer:Timer-0:301135 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(60000)
+2015-05-17 19:49:40  [ obj.CollectorTimer:Timer-0:361063 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:49:40  [ obj.CollectorTimer:Timer-0:361111 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(60000)
+2015-05-17 19:50:40  [ obj.CollectorTimer:Timer-0:421018 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:50:40  [ obj.CollectorTimer:Timer-0:421080 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(60000)
+2015-05-17 19:51:40  [ obj.CollectorTimer:Timer-0:481015 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:51:40  [ obj.CollectorTimer:Timer-0:481062 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(60000)
+2015-05-17 19:52:40  [ obj.CollectorTimer:Timer-0:541041 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(60000)
+2015-05-17 19:52:40  [ obj.CollectorTimer:Timer-0:541073 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(60000)
+2015-05-17 19:54:04  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 19:54:06  [ obj.CollectorTimer:Timer-0:1237 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 19:54:06  [ obj.CollectorTimer:Timer-0:1540 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(类型) has been parsed in interval(1min)
+2015-05-17 20:00:34  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:00:35  [ obj.CollectorTimer:Timer-0:1244 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:00:35  [ obj.CollectorTimer:Timer-0:1507 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:01:34  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:01:35  [ obj.CollectorTimer:Timer-0:1222 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:01:35  [ obj.CollectorTimer:Timer-0:1479 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:06:57  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:06:58  [ obj.CollectorTimer:Timer-0:1225 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:06:58  [ obj.CollectorTimer:Timer-0:1533 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:07:45  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:07:46  [ obj.CollectorTimer:Timer-0:1250 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:07:46  [ obj.CollectorTimer:Timer-0:1540 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:08:46  [ obj.CollectorTimer:Timer-0:61071 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:08:46  [ obj.CollectorTimer:Timer-0:61205 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:09:08  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:09:10  [ obj.CollectorTimer:Timer-0:1248 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:09:10  [ obj.CollectorTimer:Timer-0:1571 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:11:15  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:11:17  [ obj.CollectorTimer:Timer-0:1210 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:11:17  [ obj.CollectorTimer:Timer-0:1485 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:12:16  [ obj.CollectorTimer:Timer-0:61039 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:12:17  [ obj.CollectorTimer:Timer-0:61246 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:16:58  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:17:00  [ obj.CollectorTimer:Timer-0:1188 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:17:00  [ obj.CollectorTimer:Timer-0:1437 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
+2015-05-17 20:23:27  [ core.Main:main:0 ] - [ DEBUG ]  CollectorManager started!
+2015-05-17 20:23:29  [ obj.CollectorTimer:Timer-0:1225 ] - [ DEBUG ]  url(http://127.0.0.1/test2.html) with filter(用户名称) has been parsed in interval(1min)
+2015-05-17 20:23:29  [ obj.CollectorTimer:Timer-0:1524 ] - [ DEBUG ]  url(http://127.0.0.1/test1.html) with filter(时刻) has been parsed in interval(1min)
